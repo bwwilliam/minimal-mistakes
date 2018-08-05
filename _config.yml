@@ -270,4 +270,4 @@ defaults:
       share: true
       related: true
 
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-slate
