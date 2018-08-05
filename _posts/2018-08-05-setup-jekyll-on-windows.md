@@ -1,3 +1,13 @@
+---
+title: "Setup Jekyll on Windows"
+excerpt: "How to setup Jekyll on Windows"
+tags: 
+    - Jekyll
+    - CodePage
+date:   2018-08-04 07:00:00 -0600
+#categories: powershell
+---
+
 Jekyll is a great tool that you can use to generate personal blogs or company website using markdown language. 
 
 Here is some awesome instructions on [Run Jekyll on Windows](http://jekyll-windows.juthilo.com/){:target="_blank"} 
