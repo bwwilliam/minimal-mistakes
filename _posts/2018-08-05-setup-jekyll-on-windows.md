@@ -4,7 +4,7 @@ excerpt: "How to setup Jekyll on Windows"
 tags: 
     - Jekyll
     - CodePage
-date:   2018-08-04 07:00:00 -0600
+date:   2018-08-05 00:00:00 -0600
 #categories: powershell
 ---
 
@@ -25,7 +25,7 @@ You may come across the error below, that is most likely due to the **Code Page*
 -  Conversion error: Jekyll::Converters::Scss encountered an error while converting 'assets/css/main.scss':
 -                    Invalid GBK character "\xE2" on line 54
 ```
-eg. **Powershell**<br/>![My helpful screenshot]({{ "/assets/images/codepagesetttings.JPG" }})
+eg. **Powershell**<br/>![My helpful screenshot]({{"/assets/images/setup-jekyll-on-windows/codepagesetttings.JPG"}})
 
 
 ```bash
