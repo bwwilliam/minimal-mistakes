@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Something that was beneficial to me, hopefully to you as well."
 title_separator          : "-"
 name                     : "William Wang"
-description              : "An amazing website."
+description              : "I am passionate about solution architecture, emerging and cloud technologies, best practices, industry patterns, DevOps, Azure native apps, software development (asp.net, .net core, c#). I hope to share my knowledge, learnings and mistakes with you."
 url                      : http://williamwang.info #https://williamwang.io the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "William Wang"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : Cloud Solution Architect & Software Developer
+  bio              : Cloud Solution Architect & Software Developer & Lifelong Learner
   location         : "Auckland, New Zealand"
   email            :
   uri              : http://williamwang.info
