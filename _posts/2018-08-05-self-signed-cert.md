@@ -4,8 +4,6 @@ excerpt: "Generate a self signed cert using powershell"
 tags: 
     - Powershell
     - Certificate
-    - Public Key
-    - Private Key
 date:   2018-08-05 01:00:00 -0600
 #categories: powershell
 ---

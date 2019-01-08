@@ -3,8 +3,7 @@ title: "Azure: CosmosDB Provision"
 excerpt: "Azure ARM template is great, but it does not give you everything you need when comes to provision your resource or infrastructure."
 tags: 
     - Powershell
-    - Azure CosmosDB
-    - CosmosDB Collection
+    - CosmosDB
     - Azure
 date:   2018-12-10 01:00:00 -0600
 #categories: Azure
