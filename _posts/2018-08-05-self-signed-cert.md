@@ -3,7 +3,7 @@ title: "Powershell: Self signed certificate"
 excerpt: "Generate a self signed cert using powershell"
 tags: 
     - Powershell
-    - Certificate
+    - Certificate`
 date:   2018-08-05 01:00:00 -0600
 #categories: powershell
 ---
