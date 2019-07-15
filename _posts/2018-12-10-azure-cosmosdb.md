@@ -5,7 +5,7 @@ tags:
     - Powershell
     - CosmosDB
     - Azure
-date:   2018-12-10 01:00:00 -0600
+date:   2019-5-10 01:00:00 -0600
 #categories: Azure
 ---
 
